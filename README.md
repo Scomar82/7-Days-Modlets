@@ -5,8 +5,6 @@ Die gewünschten Modlets nach dem Download einfach in euren Mods-Ordner von 7 Da
 
 Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
-**Scomar82_Essen:** Fügt Popcorn hinzu
-
 **Scomar82_MunitionZerlegen:** Standardmunition 9mm, 7.62mm und .44 kann a 50 Stück in einen Stapel zerlegter Patronen gecraftet werden, welcher beim Öffnen die Rohstoffe wiedergibt, 90% Variante kann der Spieler sofort, für 100% Variante wird der Perk Yeah, Wissenschaft Level 1 benötigt.
 
 **Scomar82_FarblicheMarkierungen:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Wachstumsphasen der Pflanzen sowie für die Behälterzustände (neu, verschlossen, aufgeschlossen) hinzu.
