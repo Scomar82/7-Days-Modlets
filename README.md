@@ -25,3 +25,5 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 - Panzerbrechend --> (PB)
 - Hohlspitzmunition --> (HS)
 - Hochexplosiv --> (HE)
+- Schraubenfeder --> Feder
+- Feder --> Vogelfeder
