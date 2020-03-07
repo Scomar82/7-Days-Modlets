@@ -11,17 +11,17 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
 **Scomar82_NeueBezeichnungen:** Hier sind von mir gemachte Änderungen an Beschriftungen, die meiner Meinung nach sinnvoller sind oder besser passen, da sie um einiges kürzer sind und so die Schrift nicht so klein wird.
 
-Aufbewahrungstruhe --> Lagertruhe
-Steinplatten --> Bruchstein
-Malerpinsel --> Pinsel
-Automatischer Maschinenpistolengeschützturm --> Automatischer Geschützturm (MP)
-Automatischer Schrotflintengeschützturm --> Automatischer Geschützturm (Schrot)
-Tragschrauber --> Gyrocopter
-Elektrokabelverschaltung --> Elektrischer Verteiler
-Sichtbereich-Mod --> Zielfernrohr
-Glaskrug --> Leeres Glas
-Flasche Wasser --> Glas Wasser
-Militärstoff --> Militärfaser
-Panzerbrechend --> (PB)
-Hohlspitzmunition --> (HS)
-Hochexplosiv --> (HE)
+- Aufbewahrungstruhe --> Lagertruhe
+- Steinplatten --> Bruchstein
+- Malerpinsel --> Pinsel
+- Automatischer Maschinenpistolengeschützturm --> Automatischer Geschützturm (MP)
+- Automatischer Schrotflintengeschützturm --> Automatischer Geschützturm (Schrot)
+- Tragschrauber --> Gyrocopter
+- Elektrokabelverschaltung --> Elektrischer Verteiler
+- Sichtbereich-Mod --> Zielfernrohr
+- Glaskrug --> Leeres Glas
+- Flasche Wasser --> Glas Wasser
+- Militärstoff --> Militärfaser
+- Panzerbrechend --> (PB)
+- Hohlspitzmunition --> (HS)
+- Hochexplosiv --> (HE)
