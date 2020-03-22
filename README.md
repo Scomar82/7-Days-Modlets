@@ -5,6 +5,8 @@ Die gewünschten Modlets nach dem Download einfach in euren Mods-Ordner von 7 Da
 
 Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
+**Die Verwendung dieser Modlets in anderen Mods ist gestattet, wenn ihr in euren Credits erwähnt, dass diese von mir stammen! **
+
 **Scomar82_MunitionZerlegen:** Standardmunition 9mm, 7.62mm und .44 sowie Schrotpatronen kann per 50 Stück in einen Stapel zerlegter Patronen gecraftet werden, welcher beim Öffnen die Rohstoffe wiedergibt, 90% Variante kann der Spieler sofort, für 100% Variante wird der Perk Yeah, Wissenschaft Level 1 benötigt.
 
 **Scomar82_FarblicheKennzeichnung:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
