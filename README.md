@@ -32,4 +32,4 @@ Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, so
 - Schraubenfeder --> Feder
 - Feder --> Vogelfeder
 
-**Scomar82_RH_Deutsch_6.4-v1.22:** Ein erster Anfang für Ravenhearst 6.4.2 in Deutsch, einige Übersetzungen hab ich schon gemacht, das Sprachchaos versucht erstmal zu beseitigen, mache immer mal weiter dran, wenn ich Zeit hab.
+**Scomar82_RH_Deutsch_6.4-v1.22:** ----- In den Mods-Ordner eurer Ravenhearst Installation entpacken ---- Ein erster Anfang Ravenhearst 6.4.2 ins Deutsche zu übersetzen, einige Übersetzungen hab ich schon gemacht, das Sprachchaos mit Spanisch usw. ist erstmal größenteils beseitigt, übersetze weiter, immer wenn ich mal etwas Zeit dafür hab.
