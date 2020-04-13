@@ -31,3 +31,5 @@ Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, so
 - Hochexplosiv --> (HE)
 - Schraubenfeder --> Feder
 - Feder --> Vogelfeder
+
+**Scomar82_RH_Deutsch_6.4-v1.22:** Ein erster Anfang für Ravenhearst 6.4.2 in Deutsch, einige Übersetzungen hab ich schon gemacht, das Sprachchaos versucht erstmal zu beseitigen, mache immer mal weiter dran, wenn ich Zeit hab.
