@@ -34,6 +34,8 @@ Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, so
 
 **Scomar82_RH_Deutsch_6.4:** ----- In den Mods-Ordner eurer Ravenhearst Installation entpacken ---- Ein erster Anfang Ravenhearst 6.4.2 ins Deutsche zu übersetzen, einige Übersetzungen hab ich schon gemacht, das Sprachchaos mit Spanisch usw. ist erstmal größenteils beseitigt, übersetze weiter, immer wenn ich mal etwas Zeit dafür hab. Angepasst und erweitert mit dem Erscheinen von RH 6.4.3
 
-V1.35: Tagebucheinträge hinzugefügt
+v1.35: Tagebucheinträge hinzugefügt
 
-V1.4: Questreihen sind jetzt übersetzt und noch weitere kleinere Sachen, wäre zu viel das alles aufzulisten ;o)
+v1.4: Questreihen sind jetzt übersetzt und noch weitere kleinere Sachen, wäre zu viel das alles aufzulisten ;o)
+
+v1.5: Großen Schwung an Gegenstandsbeschreibungen hinzugefügt.
