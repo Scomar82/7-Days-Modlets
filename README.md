@@ -38,4 +38,4 @@ v1.35: Tagebucheinträge hinzugefügt
 
 v1.4: Questreihen sind jetzt übersetzt und noch weitere kleinere Sachen, wäre zu viel das alles aufzulisten ;o)
 
-v1.5: Großen Schwung an Gegenstandsbeschreibungen hinzugefügt.
+v1.52: Großen Schwung an Gegenstandsbeschreibungen hinzugefügt.
