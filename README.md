@@ -44,6 +44,8 @@ v1.6: Weitere Gegenstandbeschreibungen übersetzt und farbliche Hervorhebungen e
 
 v1.7: Sollten jetzt ca. 90% des Spiels übersetzt sein.
 
+v1.7a: die 1.7 hatte leider Kommafehler, was zum nicht anzeigen einiger deutschen Texte führte
+
 ---
 
 Vorschläge und Anregungen sind jeder Zeit willkommen. -> [Discord](https://discord.gg/jQkGGFG)
