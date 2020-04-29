@@ -41,3 +41,5 @@ v1.4: Questreihen sind jetzt übersetzt und noch weitere kleinere Sachen, wäre 
 v1.52: Großen Schwung an Gegenstandsbeschreibungen hinzugefügt.
 
 v1.6: Weitere Gegenstandbeschreibungen übersetzt und farbliche Hervorhebungen ergänzt.
+
+v1.7: Sollten jetzt ca. 90% des Spiels übersetzt sein.
