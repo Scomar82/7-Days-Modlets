@@ -43,3 +43,7 @@ v1.52: Großen Schwung an Gegenstandsbeschreibungen hinzugefügt.
 v1.6: Weitere Gegenstandbeschreibungen übersetzt und farbliche Hervorhebungen ergänzt.
 
 v1.7: Sollten jetzt ca. 90% des Spiels übersetzt sein.
+
+Vorschläge und Anregungen sind jeder Zeit willkommen. -> [Discord](https://discord.gg/jQkGGFG)
+
+Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
