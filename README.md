@@ -46,6 +46,8 @@ v1.7: Sollten jetzt ca. 90% des Spiels übersetzt sein.
 
 v1.7a: die 1.7 hatte leider Kommafehler, was zum nicht anzeigen einiger deutschen Texte führte
 
+v1.8: Das Ziel ist fast erreicht, viel fehlt nicht mehr :)
+
 ---
 
 Vorschläge und Anregungen sind jeder Zeit willkommen. -> [Discord](https://discord.gg/jQkGGFG)
