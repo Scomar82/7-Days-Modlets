@@ -48,6 +48,8 @@ v1.7a: die 1.7 hatte leider Kommafehler, was zum nicht anzeigen einiger deutsche
 
 v1.8: Das Ziel ist fast erreicht, viel fehlt nicht mehr :)
 
+v1.9: Vorläufig Finale Übersetzung von Ravenhearst, hoffe alles erwischt zu haben.
+
 ---
 
 Vorschläge und Anregungen sind jeder Zeit willkommen. -> [Discord](https://discord.gg/jQkGGFG)
