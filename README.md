@@ -50,6 +50,8 @@ v1.8: Das Ziel ist fast erreicht, viel fehlt nicht mehr :)
 
 v1.9: Vorläufig Finale Übersetzung von Ravenhearst, hoffe alles erwischt zu haben.
 
+v1.91: Einige Beschriftungen für Stahlrüstung und fortgeschrittene Items korrigiert.
+
 ---
 
 Vorschläge und Anregungen sind jeder Zeit willkommen. -> [Discord](https://discord.gg/jQkGGFG)
