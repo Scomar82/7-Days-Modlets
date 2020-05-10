@@ -52,6 +52,8 @@ v1.9: Vorläufig Finale Übersetzung von Ravenhearst, hoffe alles erwischt zu ha
 
 v1.91: Einige Beschriftungen für Stahlrüstung und fortgeschrittene Items korrigiert.
 
+v2.0: Anpassung an die RH-6.4.4 sowie kleinere Korrekturen
+
 ---
 
 Vorschläge und Anregungen sind jeder Zeit willkommen. -> [Discord](https://discord.gg/jQkGGFG)
