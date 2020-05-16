@@ -34,18 +34,18 @@ Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, so
 
 **Scomar82_RH_Deutsch_6.4: ----- In den Mods-Ordner eurer Ravenhearst Installation entpacken ----** Hier findet ihr eine komplette Übersetzung ins Deutsche für die Mod Ravenhearst.
 
-v1.35: Tagebucheinträge hinzugefügt
-v1.4: Questreihen sind jetzt übersetzt und noch weitere kleinere Sachen, wäre zu viel das alles aufzulisten ;o)
-v1.52: Großen Schwung an Gegenstandsbeschreibungen hinzugefügt.
-v1.6: Weitere Gegenstandbeschreibungen übersetzt und farbliche Hervorhebungen ergänzt.
-v1.7: Sollten jetzt ca. 90% des Spiels übersetzt sein.
-v1.7a: die 1.7 hatte leider Kommafehler, was zum nicht anzeigen einiger deutschen Texte führte
-v1.8: Das Ziel ist fast erreicht, viel fehlt nicht mehr :)
-v1.9: Vorläufig Finale Übersetzung von Ravenhearst, hoffe alles erwischt zu haben.
-v1.91: Einige Beschriftungen für Stahlrüstung und fortgeschrittene Items korrigiert.
+-v1.35: Tagebucheinträge hinzugefügt
+-v1.4: Questreihen sind jetzt übersetzt und noch weitere kleinere Sachen, wäre zu viel das alles aufzulisten ;o)
+-v1.52: Großen Schwung an Gegenstandsbeschreibungen hinzugefügt.
+-v1.6: Weitere Gegenstandbeschreibungen übersetzt und farbliche Hervorhebungen ergänzt.
+-v1.7: Sollten jetzt ca. 90% des Spiels übersetzt sein.
+-v1.7a: die 1.7 hatte leider Kommafehler, was zum nicht anzeigen einiger deutschen Texte führte
+-v1.8: Das Ziel ist fast erreicht, viel fehlt nicht mehr :)
+-v1.9: Vorläufig Finale Übersetzung von Ravenhearst, hoffe alles erwischt zu haben.
+-v1.91: Einige Beschriftungen für Stahlrüstung und fortgeschrittene Items korrigiert.
 
-v2.0: Anpassung an die RH-6.4.4 sowie kleinere Korrekturen
-v2.1: Hinzufügen der Übersetzung von Mörtel, die ich vergessen hatte.
+-v2.0: Anpassung an die RH-6.4.4 sowie kleinere Korrekturen
+-v2.1: Hinzufügen der Übersetzung von Mörtel, die ich vergessen hatte.
 
 ---
 
