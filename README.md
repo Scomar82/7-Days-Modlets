@@ -46,6 +46,7 @@ Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, so
 
 - v2.0: Anpassung an die RH-6.4.4 sowie kleinere Korrekturen
 - v2.1: Hinzufügen der Übersetzung von Mörtel, die ich vergessen hatte.
+- v2.2: Anpassung an RH-Version 6.4.5
 
 ---
 
