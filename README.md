@@ -47,7 +47,7 @@ Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, so
 - v2.0: Anpassung an die RH-6.4.4 sowie kleinere Korrekturen
 - v2.1: Hinzufügen der Übersetzung von Mörtel, die ich vergessen hatte.
 - v2.2: Anpassung an RH-Version 6.4.5
-- v.2.21: RH-Version 6.4.6 - Bei diesemm Update gab es eine Fehlerbehebung am Quest-Telefon, was aber bei der Lokalisierung keine Änderungen außer der Versionsnummer mit sich gebracht hat.
+- v.2.21: RH-Version 6.4.6 - Bei diesem Update gab es eine Fehlerbehebung am Quest-Telefon, was aber bei der Lokalisierung keine Änderungen außer der Versionsnummer mit sich gebracht hat.
 
 ---
 
