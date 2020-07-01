@@ -7,7 +7,7 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
 **Die Verwendung dieser Modlets in anderen Mods ist gestattet, wenn ihr in euren Credits erwähnt, dass diese von mir stammen!**
 
-**Scomar82_MunitionZerlegen:** Standardmunition 9mm, 7.62mm und .44 sowie Schrotpatronen kann per 50 Stück in einen Stapel zerlegter Patronen gecraftet werden, welcher beim Öffnen die Rohstoffe wiedergibt, 90% Variante kann der Spieler sofort, für 100% Variante wird der Perk Yeah, Wissenschaft Level 1 benötigt.
+**Scomar82_MunitionZerlegen:** Standardmunition 9mm, 7.62mm und .44 sowie Schrotpatronen kann per 50 Stück in einen Stapel zerlegter Patronen gecraftet werden, welcher beim Öffnen die Rohstoffe wiedergibt, 90% Variante kann der Spieler sofort, für 100% Variante wird der Fortgeschrittener Ingenieur Level 1 benötigt.
 
 Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, sowie die Hohlspitz-versionen der Munition
 
@@ -31,6 +31,7 @@ Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, so
 - Hochexplosiv --> (HE)
 - Schraubenfeder --> Feder
 - Feder --> Vogelfeder
+- Alle Bolzenarten für Armbrüste -> nur noch Bolzenarten, "für Armbrüste" entfernt
 
 **Scomar82_RH_Deutsch_6.4: ----- In den Mods-Ordner eurer Ravenhearst Installation entpacken ----** Hier findet ihr eine komplette Übersetzung ins Deutsche für die Mod Ravenhearst.
 
