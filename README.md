@@ -7,9 +7,12 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
 **Die Verwendung dieser Modlets in anderen Mods ist gestattet, wenn ihr in euren Credits erwähnt, dass diese von mir stammen!**
 
+**Scomar82_A19-HeadshotMod:** Eine kleine Questreihe erwartet euch, bei der ihr nach erfolgreichem Beenden eine Waffenmod herstellen könnt. Diese Waffenmod sorgt für One-Hit-Kills bei Kopftreffern. Allerdings richten Treffer an anderen Körperteilen nur noch 1 Schadenspunkt an. 
+
 **Scomar82_MunitionZerlegen:** Standardmunition 9mm, 7.62mm und .44 sowie Schrotpatronen kann per 50 Stück in einen Stapel zerlegter Patronen gecraftet werden, welcher beim Öffnen die Rohstoffe wiedergibt, 90% Variante kann der Spieler sofort, für 100% Variante wird der Fortgeschrittener Ingenieur Level 1 benötigt.
 
 Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, sowie die Hohlspitz-versionen der Munition
+Ver. 1.3: Alpha19 Anpassung
 
 **Scomar82_ColoredConSta:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
 
