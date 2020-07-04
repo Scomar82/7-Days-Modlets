@@ -11,7 +11,7 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
 Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, sowie die Hohlspitz-versionen der Munition
 
-**Scomar82_FarblicheKennzeichnung:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
+**Scomar82_ColoredConSta:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
 
 **Scomar82_NeueBezeichnungen:** Hier sind von mir gemachte Änderungen an Beschriftungen, die meiner Meinung nach sinnvoller sind oder besser passen, da sie um einiges kürzer sind und so die Schrift nicht so klein wird.
 
