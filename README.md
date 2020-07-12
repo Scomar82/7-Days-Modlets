@@ -7,17 +7,23 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
 **Die Verwendung dieser Modlets in anderen Mods ist gestattet, wenn ihr in euren Credits erwähnt, dass diese von mir stammen!**
 
-**Scomar82_A19-HeadshotMod:** Eine kleine Questreihe erwartet euch, bei der ihr nach erfolgreichem Beenden eine Waffenmod herstellen könnt. Diese Waffenmod sorgt für One-Hit-Kills bei Kopftreffern. Allerdings richten Treffer an anderen Körperteilen nur noch 1 Schadenspunkt an. 
+**Scomar82_A19-HeadshotMod:** Eine kleine Questreihe erwartet euch, bei der ihr nach erfolgreichem Beenden eine Waffenmod herstellen könnt. Diese Waffenmod sorgt für One-Hit-Kills bei Kopftreffern. Allerdings richten Treffer an anderen Körperteilen nur noch 1 Schadenspunkt an.
+
+- v1.2: Questreihen sind wiederhohlbar
+- v1.25: Um zu verhindern, dass die Urkunde vorm Abschluss der Quest hergestellt wird, habe ich zur Questbelohnung ein Item hinzugefügt, das für die Herstellung notwendig ist.
 
 **Scomar82_MunitionZerlegen:** Standardmunition 9mm, 7.62mm und .44 sowie Schrotpatronen kann per 50 Stück in einen Stapel zerlegter Patronen gecraftet werden, welcher beim Öffnen die Rohstoffe wiedergibt, 90% Variante kann der Spieler sofort, für 100% Variante wird der Fortgeschrittener Ingenieur Level 1 benötigt.
 
-Ver. 1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, sowie die Hohlspitz-versionen der Munition
-Ver. 1.3: Alpha19 Anpassung
+- v1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, sowie die Hohlspitz-versionen der Munition
+- v1.3: Alpha19 Anpassung
 
 **Scomar82_ColoredConSta:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
 
+- v1.25: Neue Hervorhebung beim Interagieren und Aufheben hinzugefügt
+
 **Scomar82_NeueBezeichnungen:** Hier sind von mir gemachte Änderungen an Beschriftungen, die meiner Meinung nach sinnvoller sind oder besser passen, da sie um einiges kürzer sind und so die Schrift nicht so klein wird.
 
+- v1.2:
 - Aufbewahrungstruhe --> Lagertruhe
 - Steinplatten --> Bruchstein
 - Malerpinsel --> Pinsel
