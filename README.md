@@ -16,6 +16,7 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
 - v1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, sowie die Hohlspitz-versionen der Munition
 - v1.3: Alpha19 Anpassung
+- v1.4: Eisen- und Stahlpfeile sowie Eisen- und Stahlbolzen hinzugefügt, neue Icons werden verwendet
 
 **Scomar82_ColoredConSta:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
 
