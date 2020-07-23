@@ -12,6 +12,7 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 - v1.2: Questreihen sind wiederhohlbar
 - v1.25: Um zu verhindern, dass die Urkunde vorm Abschluss der Quest hergestellt wird, habe ich zur Questbelohnung ein Item hinzugefügt, das für die Herstellung notwendig ist.
 - Scomar82_A19-HeadshotModSimple ist das ganze ohne Quests, wird nur Fortgeschrittener Ingenieur Level 1 benötigt
+- v1.3: Questreihe neu strukturiert, das Ganze ist nun linear aufgebaut und einfacher in der Handhabung.
 
 **Scomar82_MunitionZerlegen:** Standardmunition 9mm, 7.62mm und .44 sowie Schrotpatronen kann per 50 Stück in einen Stapel zerlegter Patronen gecraftet werden, welcher beim Öffnen die Rohstoffe wiedergibt, 90% Variante kann der Spieler sofort, für 100% Variante wird der Fortgeschrittener Ingenieur Level 1 benötigt.
 
