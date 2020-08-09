@@ -28,7 +28,7 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
 **Scomar82_NeueBezeichnungen:** Hier sind von mir gemachte Änderungen an Beschriftungen, die meiner Meinung nach sinnvoller sind oder besser passen, da sie um einiges kürzer sind und so die Schrift nicht so klein wird.
 
-- v1.2:
+- v1.25:
 - Aufbewahrungstruhe --> Lagertruhe
 - Steinplatten --> Bruchstein
 - Malerpinsel --> Pinsel
@@ -46,6 +46,7 @@ Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 - Schraubenfeder --> Feder
 - Feder --> Vogelfeder
 - Alle Bolzenarten für Armbrüste -> nur noch Bolzenarten, "für Armbrüste" entfernt
+- Knarre --> Ratsche
 
 **Scomar82_RH_Deutsch_6.4: ----- In den Mods-Ordner eurer Ravenhearst Installation entpacken ----** Hier findet ihr eine komplette Übersetzung ins Deutsche für die Mod Ravenhearst.
 
