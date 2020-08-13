@@ -3,7 +3,7 @@ Modlets für 7 Days
 
 Die gewünschten Modlets nach dem Download einfach in euren Mods-Ordner von 7 Days To Die entpacken. Bsp: (Euer Laufwerk:...Steam\steamapps\common\7 Days To Die\Mods\)
 
-Im Reiter Wiki findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
+Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bilder als kleine Vorschau, was Euch erwartet.
 
 **Die Verwendung dieser Modlets in anderen Mods ist gestattet, wenn ihr in euren Credits erwähnt, dass diese von mir stammen!**
 
