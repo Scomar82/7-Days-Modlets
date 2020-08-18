@@ -22,6 +22,7 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 - v1.4: Eisen- und Stahlpfeile sowie Eisen- und Stahlbolzen hinzugefügt, neue Icons werden verwendet
 - v1.5: Neue Gruppenkategorie im Craftingfenster hinzugefügt, in der die ganzen Zerlegerezepte zu finden sind.
 - v1.51: Einige Tippfehler in der Lokalisierung behoben und die Namen der zerlegten Elemente aktualisiert
+- v1.55: Alle Pfeilarten können in die jeweiligen Bolzenarten umgewandelt werden und umgekehrt.
 
 **Scomar82_ColoredConSta:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
 
