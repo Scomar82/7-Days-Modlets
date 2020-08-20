@@ -7,6 +7,8 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 
 **Die Verwendung dieser Modlets in anderen Mods ist gestattet, wenn ihr in euren Credits erwähnt, dass diese von mir stammen!**
 
+**Scomar82_A19-HUD:** Ein von mir angepasstes HUD mit Nahrung und Wasser an der linken Seite, sowie ein paar weiterer kleinen Veränderungen.
+
 **Scomar82_A19-HeadshotMod:** Eine kleine Questreihe erwartet euch, bei der ihr nach erfolgreichem Beenden eine Waffenmod herstellen könnt. Diese Waffenmod sorgt für One-Hit-Kills bei Kopftreffern. Allerdings richten Treffer an anderen Körperteilen nur noch 1 Schadenspunkt an.
 
 - v1.2: Questreihen sind wiederhohlbar
