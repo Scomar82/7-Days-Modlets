@@ -10,6 +10,7 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 **Scomar82_A19-HUD:** Ein von mir angepasstes HUD mit Nahrung und Wasser an der linken Seite, sowie ein paar weiterer kleinen Veränderungen.
 
 - v1.05: Nummern der Gürtelslots sind nun besser sichtbar.
+- v1.1: Kompassmarkierung zur Zentrierung hinzugefügt, kleiner Verbesserungen in der Darstellung eingefügt
 
 **Scomar82_A19-HeadshotMod:** Eine kleine Questreihe erwartet euch, bei der ihr nach erfolgreichem Beenden eine Waffenmod herstellen könnt. Diese Waffenmod sorgt für One-Hit-Kills bei Kopftreffern. Allerdings richten Treffer an anderen Körperteilen nur noch 1 Schadenspunkt an.
 
