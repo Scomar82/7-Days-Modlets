@@ -11,6 +11,7 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 
 - v1.05: Nummern der Gürtelslots sind nun besser sichtbar.
 - v1.1: Kompassmarkierung zur Zentrierung hinzugefügt, kleiner Verbesserungen in der Darstellung eingefügt
+- v1.2: Anpassung an den 10er Gürtel ab A19.1
 
 **Scomar82_A19-HeadshotMod:** Eine kleine Questreihe erwartet euch, bei der ihr nach erfolgreichem Beenden eine Waffenmod herstellen könnt. Diese Waffenmod sorgt für One-Hit-Kills bei Kopftreffern. Allerdings richten Treffer an anderen Körperteilen nur noch 1 Schadenspunkt an.
 
