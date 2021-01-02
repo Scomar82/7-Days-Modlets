@@ -64,6 +64,4 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 
 ---
 
-Vorschläge und Anregungen sind jeder Zeit willkommen. -> [Discord](https://discord.gg/jQkGGFG)
-
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
