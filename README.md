@@ -7,6 +7,8 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 
 **Die Verwendung dieser Modlets in anderen Mods ist gestattet, wenn ihr in euren Credits erwähnt, dass diese von mir stammen!**
 
+**Scomar82_SchematicParts:** Schluss mit dem ewigen Gesuche nach einem fehlendem Buch einer Reihe, zerlegt einfach eure schon gelernten Baupläne und Bücher, mit entsprechend vielen Bauplanteilen könnt ihr dann selbst das fehlende Buch herstellen. Alle Baupläne und Skillbücher sowie Questpapiere sind zerlegbar in Bauplan-Teile. Mit diesen Teilen sowie einem Lineal und Bleistift, welche beim Plündern gefunden werden können, kann man die Skillbücher und Baupläne selber craften. Weiterhin können noch 3 Auftragsbücher gecraftet werden, welche nach beenden der Kill-Quest eine Belohnung für euch parat hält.
+
 **Scomar82_A19-HUD:** Ein von mir angepasstes HUD mit Nahrung und Wasser an der linken Seite, sowie ein paar weiterer kleinen Veränderungen.
 
 - v1.05: Nummern der Gürtelslots sind nun besser sichtbar.
