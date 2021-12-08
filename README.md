@@ -11,12 +11,13 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 
 - v1.1: Craftingtimer hinzugefügt um die Herstellzeit zu verkürzen.
 
-**Scomar82_A19-HUD:** Ein von mir angepasstes HUD mit Nahrung und Wasser an der linken Seite, sowie ein paar weiterer kleinen Veränderungen.
+**Scomar82_HUD:** Ein von mir angepasstes HUD mit Nahrung und Wasser an der linken Seite, sowie ein paar weiterer kleinen Veränderungen.
 
 - v1.05: Nummern der Gürtelslots sind nun besser sichtbar.
 - v1.1: Kompassmarkierung zur Zentrierung hinzugefügt, kleiner Verbesserungen in der Darstellung eingefügt
 - v1.2: Anpassung an den 10er Gürtel ab A19.1
 - v1.3: A19.1 oder Höher: Zombiekills links und Tode rechts vom Gürtel
+- v2.0: erste Anpassung für A20, Counter links und rechts vom Gürtel funktionieren aktuell noch nicht.
 
 **Scomar82_A19-HeadshotMod:** Eine kleine Questreihe erwartet euch, bei der ihr nach erfolgreichem Beenden eine Waffenmod herstellen könnt. Diese Waffenmod sorgt für One-Hit-Kills bei Kopftreffern. Allerdings richten Treffer an anderen Körperteilen nur noch 1 Schadenspunkt an.
 
