@@ -28,7 +28,7 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 - v1.3: Questreihe neu strukturiert, das Ganze ist nun linear aufgebaut und einfacher in der Handhabung. Nicht aktualisieren während aktiver Quest aus der Mod, dies könnte zu Problemen führen.
 - v1.35: Localization Update
 
-**Scomar82_MunitionZerlegen:** Standardmunition 9mm, 7.62mm und .44 sowie Schrotpatronen kann per 50 Stück in einen Stapel zerlegter Patronen gecraftet werden, welcher beim Öffnen die Rohstoffe wiedergibt, 90% Variante kann der Spieler sofort, für 100% Variante wird der Fortgeschrittener Ingenieur Level 1 benötigt.
+**Scomar82_MunitionZerlegen/AmmoDismember:** Standardmunition 9mm, 7.62mm und .44 sowie Schrotpatronen kann per 50 Stück in einen Stapel zerlegter Patronen gecraftet werden, welcher beim Öffnen die Rohstoffe wiedergibt, 90% Variante kann der Spieler sofort, für 100% Variante wird der Fortgeschrittener Ingenieur Level 1 benötigt.
 
 - v1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, sowie die Hohlspitz-versionen der Munition
 - v1.3: Alpha19 Anpassung
@@ -36,6 +36,7 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 - v1.5: Neue Gruppenkategorie im Craftingfenster hinzugefügt, in der die ganzen Zerlegerezepte zu finden sind.
 - v1.51: Einige Tippfehler in der Lokalisierung behoben und die Namen der zerlegten Elemente aktualisiert
 - v1.55: Alle Pfeilarten können in die jeweiligen Bolzenarten umgewandelt werden und umgekehrt.
+- v2.0: Anpassung für A20
 
 **Scomar82_ColoredConSta:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
 
