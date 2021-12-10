@@ -41,7 +41,6 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 
 **Scomar82_ColoredConSta:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
 
-- v2.0: Alpha 20 Anpassung
 - v1.3: Fehlenden Hervorhebungen beim Aufheben von Gegenständen in der Welt hinzugefügt, funktioniert mit A19 und A20.
 - v1.25: Neue Hervorhebung beim Interagieren und Aufheben hinzugefügt
 
