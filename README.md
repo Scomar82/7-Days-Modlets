@@ -14,6 +14,7 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 
 **Scomar82_HUD:** Ein von mir angepasstes HUD mit Nahrung und Wasser an der linken Seite, sowie ein paar weiterer kleinen Veränderungen. (wn Versionen sind Identisch mit den original Versionen haben nur keine Nummern über den Gürtelfeldern.)
 
+- v2.3: Playerlevel ist zurück in der Anzeige :o)
 - v2.2: HUD2 anstatt Spielerlevel zeigt es jetzt Cash an, Ausrichtung auf zentriert geändert.
 - v2.1: Zähler für Zombiekills und Spielertode refreshen nur bei login im Moment
 - v2.0: erste Anpassung für A20, Counter links und rechts vom Gürtel funktionieren aktuell noch nicht.
