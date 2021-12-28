@@ -7,6 +7,15 @@ Im Reiter [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) findet Ihr Bil
 
 **Die Verwendung dieser Modlets in anderen Mods ist gestattet, wenn ihr in euren Credits erwähnt, dass diese von mir stammen!**
 
+**Scomar82_NewRepKitRecipe:** Das Herstellrezept der Reparatur Kits wurde abgeändert, so dass es mehr Sinn ergibt.
+Das neue Rezept ist wie folgt:
+- 1x geschmiedetes Eisen
+- 1x Klebeband
+- 1x Mechanische Teile
+- 1x Öl
+- 1x Stofffetzen
+
+
 **Scomar82_SchematicParts:** Schluss mit dem ewigen Gesuche nach einem fehlendem Buch einer Reihe, zerlegt einfach eure schon gelernten Baupläne und Bücher, mit entsprechend vielen Bauplanteilen könnt ihr dann selbst das fehlende Buch herstellen. Alle Baupläne und Skillbücher sowie Questpapiere sind zerlegbar in Bauplan-Teile. Mit diesen Teilen sowie einem Lineal, Bleistift und Papier, welche beim Plündern gefunden werden können, kann man die Skillbücher und Baupläne selber craften. Weiterhin können noch 3 Auftragsbücher gecraftet werden, welche nach beenden der Kill-Quest eine Belohnung für euch parat hält.
 
 - v2.0: A20 Anpassung
