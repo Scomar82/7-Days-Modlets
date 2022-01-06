@@ -18,6 +18,7 @@ Das neue Rezept ist wie folgt:
 
 **Scomar82_SchematicParts:** Schluss mit dem ewigen Gesuche nach einem fehlendem Buch einer Reihe, zerlegt einfach eure schon gelernten Baupläne und Bücher, mit entsprechend vielen Bauplanteilen könnt ihr dann selbst das fehlende Buch herstellen. Alle Baupläne und Skillbücher sowie Questpapiere sind zerlegbar in Bauplan-Teile. Mit diesen Teilen sowie einem Lineal, Bleistift und Papier, welche beim Plündern gefunden werden können, kann man die Skillbücher und Baupläne selber craften. Weiterhin können noch 3 Auftragsbücher gecraftet werden, welche nach beenden der Kill-Quest eine Belohnung für euch parat hält.
 
+- v2.11: Die Eigenschaftsgruppe für Lineal und Bleistift hinzugefügt, Ein optinales File erstellt, um Lineal und Bleistift in der Werkbank herzustellen
 - v2.0: A20 Anpassung
 - v1.1: Craftingtimer hinzugefügt um die Herstellzeit zu verkürzen.
 
