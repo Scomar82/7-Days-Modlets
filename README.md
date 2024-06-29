@@ -52,7 +52,7 @@ Das neue Rezept ist wie folgt:
 - v1.3: Alpha19 Anpassung
 - v1.2: Neu hinzugekommen sind die Zerlegerezepte für die Panzerbrechende, sowie die Hohlspitz-versionen der Munition
 
-**Scomar82_ColoredConSta:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
+**Scomar82_ColoredConSta - Seit Game-Version 1.0 -> Scomar82_Hobacs:** Fügt die aus meiner Übersetzung bekannten Farblichen Markierungen für die Behälterzustände (unberührt, bekannt, leer) und Türen (verschlossen, aufgeschlossen) hinzu.
 
 - v1.3: Fehlenden Hervorhebungen beim Aufheben von Gegenständen in der Welt hinzugefügt, funktioniert mit A19 und A20.
 - v1.25: Neue Hervorhebung beim Interagieren und Aufheben hinzugefügt
