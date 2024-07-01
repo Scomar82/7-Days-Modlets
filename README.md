@@ -17,7 +17,7 @@ Setzt den Status (leer) im Deutschen hinter die Beschreibung um so, Leer/Leere/L
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**-------------------------------------------------------------------------------------------------------------------------------------**
 English
 
 After downloading, simply unzip the desired modlets into your mods folder of 7 Days To Die. Example: (Your drive:...Steam\steamapps\common\7 Days To Die\Mods\)
