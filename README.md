@@ -13,6 +13,7 @@ Fügt farblichen Markierungen für die Behälterzustände (unberührt, bekannt, 
 Setzt den Status (leer) im Deutschen hinter die Beschreibung um so, Leer/Leere/Leerer zu umgehen, was schon immer meinen inneren Monk etwas störte.^^
 
   - V1.01: Einige Verbesserungen am Zustand des Tausammlers (trübes (gelb) und sauberes Wasser (blau)) und in der spanischen Übersetzung. Danke an M4V3I2iCk
+  - V1.1: Neue Übersetzungen aud Update V1.0 b312 hinzugefügt und einige Zeilen der originalen Localization gefixed
 
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
@@ -31,6 +32,7 @@ In the [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) tab you will find
 It is just a simple modlet that gives you a colored feedback about the cointainer (untouched, empty, known) and door (locked, unlocked) states . It also makes the interaction buttons colored.
 
   - V1.01: Some improvements to the state of the dew collector (cloudy (yellow) and clean water (blue)) and in the Spanish translation. Thanks to M4V3I2iCk
+  - V1.1: Added the new translations from Update V1.0 b312 and fixed some broken lines from the original Localization.
 
 
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
