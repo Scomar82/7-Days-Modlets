@@ -15,6 +15,14 @@ Setzt den Status (leer) im Deutschen hinter die Beschreibung um so, Leer/Leere/L
   - V1.01: Einige Verbesserungen am Zustand des Tausammlers (trübes (gelb) und sauberes Wasser (blau)) und in der spanischen Übersetzung. Danke an M4V3I2iCk
   - V1.1: Neue Übersetzungen aud Update V1.0 b312 hinzugefügt und einige Zeilen der originalen Localization gefixed
 
+**Scomar82_ElementalAmmo:**
+Diese Mod ist inspiriert von der A21 Mod Exotic Ammo von BoxTurtle Games.
+
+  - Dieser Mod gibt euch 2 neue Arten von Munition für eure Waffen, die ihr an eurer Werkbank herstellen könnt.
+  - Feuer- und Blitzschlag-Munition.
+  - Die neuen Munitionstypen können durch den Perk Fortgeschrittener Ingenieur Level 1 und das Bundle Crafting auf Level 2 freigeschaltet werden.
+  - Zusätzliche Ressourcen für die Feuer-Munition sind Benzin-Kanister und für die Blitzschlag-Munition Nitrat-Pulver.
+  - Feuer-Munition setzt dein Ziel in Brand und Blitzschlag-Munition betäubt dein Ziel.
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
@@ -34,5 +42,13 @@ It is just a simple modlet that gives you a colored feedback about the cointaine
   - V1.01: Some improvements to the state of the dew collector (cloudy (yellow) and clean water (blue)) and in the Spanish translation. Thanks to M4V3I2iCk
   - V1.1: Added the new translations from Update V1.0 b312 and fixed some broken lines from the original Localization.
 
+**Scomar82_ElementalAmmo:**
+This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
+
+  - This Mod gives you 2 new typs of Ammo for your guns, that can be crafted at your workbench.
+  - Fire- and Lightning-Ammo.
+  - The new Ammo Typs can be unlocked by the Perk Advanced Engineering Level 1 und the Bundle Crafting of them at Level 2.
+  - Additional ressources for the Fire-Ammo are GasCans and for Lightning-Ammo are NitratPowder.
+  - Fire-Ammo sets your target on fire and Lightning-Ammo stuns your target
 
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
