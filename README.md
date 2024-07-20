@@ -24,6 +24,10 @@ Diese Mod ist inspiriert von der A21 Mod Exotic Ammo von BoxTurtle Games.
   - Zusätzliche Ressourcen für die Feuer-Munition sind Benzin-Kanister und für die Blitzschlag-Munition Nitrat-Pulver.
   - Feuer-Munition setzt dein Ziel in Brand und Blitzschlag-Munition betäubt dein Ziel.
 
+**Scomar82_Health-Bar:**
+Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
+  - Zeigt immer die aktuelle Gesundheit deines Ziels in einem Balken an.
+
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
 **--------------------------------------------------------------------------------------------------------------------------------**
@@ -50,5 +54,9 @@ This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
   - The new Ammo Typs can be unlocked by the Perk Advanced Engineering Level 1 und the Bundle Crafting of them at Level 2.
   - Additional ressources for the Fire-Ammo are GasCans and for Lightning-Ammo are NitratPowder.
   - Fire-Ammo sets your target on fire and Lightning-Ammo stuns your target
+
+**Scomar82_Health-Bar:**
+Inspired from AGF Health Bar, but it was to small for me.
+  - Shows always the current Health of your aimed target
 
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
