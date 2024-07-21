@@ -28,8 +28,11 @@ Diese Mod ist inspiriert von der A21 Mod Exotic Ammo von BoxTurtle Games.
 Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
   - Zeigt immer die aktuelle Gesundheit deines Ziels in einem Balken an.
 
-**Scomar82_LockSlotIconColor:**
-  - Ändert die Farbe des Icons für den verschlossenen Slot in rot um.
+**Scomar82_LockSlotColor:**
+  - 3 verschiedene Versionen
+  - LockSlotIconColor: Ändert die Farbe des Icons für den verschlossenen Slot in rot um.
+  - LockSlotBackColor: Ändert den Hintergrund zu rot
+  - LockSlotBorderColor: Ändert die Umrandung zu rot
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
@@ -62,7 +65,10 @@ This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
 Inspired from AGF Health Bar, but it was to small for me.
   - Shows always the current Health of your aimed target
 
-**Scomar82_LockSlotIconColor:**
-  - changes the iconcolor of the locked slot icon to red
+**Scomar82_LockSlotColor:**
+  - there are 3 versions
+  - LockSlotIconColor: changes the iconcolor of the locked slot icon to red
+  - LockSlotBackColor: changes the backgroundcolor of the locked slot to red
+  - LockSlotBorderColor: changes the border of the locked slot to red
 
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
