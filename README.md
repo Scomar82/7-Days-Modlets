@@ -26,7 +26,8 @@ This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
 
 **Scomar82_Health-Bar:**
 Inspired from AGF Health Bar, but it was to small for me.
-  - Shows always the current Health of your aimed target
+  - Shows always the current Health of your aimed target and text below
+  - TiB-Version: shows text inside the HealthBar
 
 **Scomar82_LockSlotColor:**
   - there are 3 versions
@@ -67,6 +68,7 @@ Diese Mod ist inspiriert von der A21 Mod Exotic Ammo von BoxTurtle Games.
 **Scomar82_Health-Bar:**
 Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
   - Zeigt immer die aktuelle Gesundheit deines Ziels in einem Balken an.
+  - TiB-Version: Zeigt den Text innerhalb der HealthBar an.
 
 **Scomar82_LockSlotColor:**
   - 3 verschiedene Versionen
