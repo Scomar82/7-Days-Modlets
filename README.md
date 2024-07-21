@@ -1,5 +1,45 @@
-# 7-Days-Modlets Game Version 1.0
-Deutsch
+## 7-Days-Modlets Game Version 1.0
+
+## English - Deutsch weiter unten
+
+After downloading, simply unzip the desired modlets into your mods folder of 7 Days To Die. Example: (Your drive:...Steam\steamapps\common\7 Days To Die\Mods\)
+
+In the [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) tab you will find pictures as a small preview of what to expect.
+
+**The use of these modlets in other mods is allowed if you mention in your credits that they are from me!**
+
+
+**Scomar82_Hobacs:**
+It is just a simple modlet that gives you a colored feedback about the cointainer (untouched, empty, known) and door (locked, unlocked) states . It also makes the interaction buttons colored.
+
+  - V1.01: Some improvements to the state of the dew collector (cloudy (yellow) and clean water (blue)) and in the Spanish translation. Thanks to M4V3I2iCk
+  - V1.1: Added the new translations from Update V1.0 b312 and fixed some broken lines from the original Localization.
+
+**Scomar82_ElementalAmmo:**
+This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
+
+  - This Mod gives you 2 new typs of Ammo for your guns, that can be crafted at your workbench.
+  - Fire- and Lightning-Ammo.
+  - The new Ammo Typs can be unlocked by the Perk Advanced Engineering Level 1 und the Bundle Crafting of them at Level 2.
+  - Additional ressources for the Fire-Ammo are GasCans and for Lightning-Ammo are NitratPowder.
+  - Fire-Ammo sets your target on fire and Lightning-Ammo stuns your target
+
+**Scomar82_Health-Bar:**
+Inspired from AGF Health Bar, but it was to small for me.
+  - Shows always the current Health of your aimed target
+
+**Scomar82_LockSlotColor:**
+  - there are 3 versions
+  - LockSlotIconColor: changes the iconcolor of the locked slot icon to red
+  - LockSlotBackColor: changes the backgroundcolor of the locked slot to red
+  - LockSlotBorderColor: changes the border of the locked slot to red
+
+Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
+
+
+**--------------------------------------------------------------------------------------------------------------------------------**
+
+## Deutsch
 
 Die gewünschten Modlets nach dem Download einfach in euren Mods-Ordner von 7 Days To Die entpacken. Bsp: (Euer Laufwerk:...Steam\steamapps\common\7 Days To Die\Mods\)
 
@@ -35,40 +75,3 @@ Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
   - LockSlotBorderColor: Ändert die Umrandung zu rot
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
-
-**--------------------------------------------------------------------------------------------------------------------------------**
-English
-
-After downloading, simply unzip the desired modlets into your mods folder of 7 Days To Die. Example: (Your drive:...Steam\steamapps\common\7 Days To Die\Mods\)
-
-In the [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) tab you will find pictures as a small preview of what to expect.
-
-**The use of these modlets in other mods is allowed if you mention in your credits that they are from me!**
-
-
-**Scomar82_Hobacs:**
-It is just a simple modlet that gives you a colored feedback about the cointainer (untouched, empty, known) and door (locked, unlocked) states . It also makes the interaction buttons colored.
-
-  - V1.01: Some improvements to the state of the dew collector (cloudy (yellow) and clean water (blue)) and in the Spanish translation. Thanks to M4V3I2iCk
-  - V1.1: Added the new translations from Update V1.0 b312 and fixed some broken lines from the original Localization.
-
-**Scomar82_ElementalAmmo:**
-This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
-
-  - This Mod gives you 2 new typs of Ammo for your guns, that can be crafted at your workbench.
-  - Fire- and Lightning-Ammo.
-  - The new Ammo Typs can be unlocked by the Perk Advanced Engineering Level 1 und the Bundle Crafting of them at Level 2.
-  - Additional ressources for the Fire-Ammo are GasCans and for Lightning-Ammo are NitratPowder.
-  - Fire-Ammo sets your target on fire and Lightning-Ammo stuns your target
-
-**Scomar82_Health-Bar:**
-Inspired from AGF Health Bar, but it was to small for me.
-  - Shows always the current Health of your aimed target
-
-**Scomar82_LockSlotColor:**
-  - there are 3 versions
-  - LockSlotIconColor: changes the iconcolor of the locked slot icon to red
-  - LockSlotBackColor: changes the backgroundcolor of the locked slot to red
-  - LockSlotBorderColor: changes the border of the locked slot to red
-
-Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
