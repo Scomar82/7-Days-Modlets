@@ -34,6 +34,8 @@ Inspired from AGF Health Bar, but it was to small for me.
   - LockSlotIconColor: changes the iconcolor of the locked slot icon to red
   - LockSlotBackColor: changes the backgroundcolor of the locked slot to red
   - LockSlotBorderColor: changes the border of the locked slot to red
+  - Shad0wyDr3ams did some edits with different colors. In this files the lock and the border are visible.
+    This files can be also downloaded.
 
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
