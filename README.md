@@ -36,6 +36,7 @@ Inspired from AGF Health Bar, but it was to small for me.
   - LockSlotBorderColor: changes the border of the locked slot to red
   - Shad0wyDr3ams did some edits with different colors. In this files the lock and the border are visible.
     This files can be also downloaded.
+  - Added new file "Scomar82_LSlotBorderColorRedKH96BB.zip" for **Khaine96BiggerBackpackMod**, who is required for this.
 
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
@@ -77,5 +78,8 @@ Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
   - LockSlotIconColor: Ändert die Farbe des Icons für den verschlossenen Slot in rot um.
   - LockSlotBackColor: Ändert den Hintergrund zu rot
   - LockSlotBorderColor: Ändert die Umrandung zu rot
+  - Shad0wyDr3ams hat einige Änderungen mit verschiedenen Farben vorgenommen. In diesen Dateien sind das Schloss und der Rand sichtbar.
+    Diese Dateien sind ebenfalls hier verfügbar.
+  - Neues File "Scomar82_LSlotBorderColorRedKH96BB.zip" hinzugefügt für **Khaine96BiggerBackpackMod**, welche dann zwingend erforderlich ist.
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
