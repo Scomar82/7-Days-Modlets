@@ -39,6 +39,10 @@ Inspired from AGF Health Bar, but it was to small for me.
     This files can be also downloaded.
   - Added new file "Scomar82_LSlotBorderColorRedKH96BB.zip" for **Khaine96BiggerBackpackMod**, who is required for this.
 
+**Scomar82_ChickenNest:**
+  - A craftable Chicken Nest, where you need to give food to it, then "a chicken" will produce some eggs and feathers. Works Serverside!
+  - Seeds Lvl 8 required for crafting
+
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
 
@@ -83,5 +87,12 @@ Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
   - Shad0wyDr3ams hat einige Änderungen mit verschiedenen Farben vorgenommen. In diesen Dateien sind das Schloss und der Rand sichtbar.
     Diese Dateien sind ebenfalls hier verfügbar.
   - Neues File "Scomar82_LSlotBorderColorRedKH96BB.zip" hinzugefügt für **Khaine96BiggerBackpackMod**, welche dann zwingend erforderlich ist.
+
+**Scomar82_ChickenNest:**
+  - Nachdem du in der Kategorie "Samen" Level 8 erreicht hast, kannst du in deiner Werkbank ein Hühnernest herstellen.
+  - Gibts du diesem Nest Tierfutter, welches du herstellen kannst, so produziert es über Zeit Federn und Eier.
+  - Die Mod funktioniert Serverseitig.
+
+
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
