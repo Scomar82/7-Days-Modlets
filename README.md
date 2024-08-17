@@ -43,6 +43,15 @@ Inspired from AGF Health Bar, but it was to small for me.
   - A craftable Chicken Nest, where you need to give food to it, then "a chicken" will produce some eggs and feathers. Works Serverside!
   - Seeds Lvl 8 required for crafting
 
+**zScomar82_BN:**
+  - This Mod changes the Names of the armorpieces. It will be now shown with a armorclass shortcut in front of the name.
+  - There are following shortcuts:
+  - LA - Light Armor
+  - MA - Medium Armor
+  - HA - Heavy Armor
+  - ﻿﻿Furthermore the AP and HiPower Ammo are shown in differnt colors.
+
+
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
 
@@ -93,6 +102,12 @@ Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
   - Gibts du diesem Nest Tierfutter, welches du herstellen kannst, so produziert es über Zeit Federn und Eier.
   - Die Mod funktioniert Serverseitig.
 
-
+**zScomar82_BN:**
+  - Diese Mod ändert die Namen der Rüstungsteile. Sie werden nun mit einer Rüstungsklassen-Verknüpfung vor dem Namen angezeigt.
+  - Es gibt folgende Abkürzungen:
+  - LR - Leichte Rüstung
+  - MR - Mittlere Rüstung
+  - SR - Schwere Rüstung
+  - ﻿﻿Außerdem werden die Panzerbrechende und HiPower Munition in unterschiedlichen Farben angezeigt.
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
