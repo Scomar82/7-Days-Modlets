@@ -51,6 +51,15 @@ Inspired from AGF Health Bar, but it was to small for me.
   - HA - Heavy Armor
   - ﻿﻿Furthermore the AP and HiPower Ammo are shown in differnt colors.
 
+**Scomar82-HUD:**
+  - Hud-Modification with additional Stats displayed in Hud
+  - elevation, temperature and xp with playerlevel
+  - left from toolbelt are the amount of coins carried in your backpack
+  - target healthbar is visible
+
+  - V1.0b33a:
+      - changed locations display center below compass
+      - moved entry display left from compass
 
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
