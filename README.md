@@ -119,4 +119,14 @@ Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
   - SR - Schwere Rüstung
   - ﻿﻿Außerdem werden die Panzerbrechende und HiPower Munition in unterschiedlichen Farben angezeigt.
 
+**Scomar82-HUD:**
+  - Hud-Modifikation mit zusätzlichen Werten im Sichtbereich
+  - Höhe, Temperatur sowie Erfahrung mit Spielerlevel
+  - links vom Gürtel die im Rucksack getragene Menge an Coins
+  - Lebensanzeige des Ziels ist sichtbar
+
+  - V1.0b33a:
+      - Positionsanzeige unter den Kompass verlegt
+      - Eintrittsanzeige in POI'S nach links vom Kompass verlegt
+
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
