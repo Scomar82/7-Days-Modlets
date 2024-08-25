@@ -61,6 +61,18 @@ Inspired from AGF Health Bar, but it was to small for me.
       - changed locations display center below compass
       - moved entry display left from compass
 
+**Scomar82-SuBaS:**
+  - You will often find books and building plans in the loot that you already know. The dealer won't give you many coins for them either. Frustrating!
+  - But now you have the chance to make something out of these books. Dismantle them into Schematic parts. You can use them at the new Schematics-Workstation
+    to create new books and blueprints that you don't know yet.
+  - Features:
+    - scrap books, schematics, magazines into the new Schematic Parts
+    - craft in your workbench a Schematic-Workstation and place it
+    - open the Schematic-Workbench and now choose your missing book, magazine or schematic and craft it from the parts and a few other ingredients.
+    - your have also the choise to craft 2 quest books, which give you a quest to kill 100 oder 250 zombies to get a reward.
+    - already known books have a red open book to identify them easier
+  - If something is missing, don't hesitate to write a comment. I will see what i can do.
+    
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
 
@@ -128,5 +140,17 @@ Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
   - V1.0b33a:
       - Positionsanzeige unter den Kompass verlegt
       - Eintrittsanzeige in POI'S nach links vom Kompass verlegt
+
+**Scomar82-SuBaS:**
+  - In der Beute findest du oft Bücher und Baupläne, die du bereits kennst. Der Händler wird dir auch nicht viele Münzen dafür geben. Frustrierend!
+  - Aber jetzt hast du die Möglichkeit, etwas aus diesen Büchern zu machen. Zerlege sie in Bauplan-Teile. Diese kannst du an der neuen Bauplan-Werkbank verwenden um 
+    neue Bücher und Baupläne zu erstellen, die du noch nicht kennst.
+  - Features:
+    - Bücher, Baupläne, Zeitschriften in die neuen Schemateile zerlegen
+    - Crafte in der Werkbank eine Bauplan-Werkbank und platziere sie
+    - Öffne die Bauplan-Werkbank und wähle nun dein fehlendes Buch, Magazin oder Bauplan aus und stelle es aus den Teilen und ein paar anderen Zutaten her.
+    - Du hast auch die Möglichkeit, 2 Questbücher zu craften, die dir eine Quest geben, bei der du 100 oder 250 Zombies töten musst, um eine Belohnung zu erhalten.
+    - Bereits bekannte Bücher haben ein rotes offenes Buch, um sie leichter zu identifizieren.
+  - Wenn etwas fehlt, zögert nicht, einen Kommentar zu schreiben. Ich werde sehen, was ich tun kann.
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
