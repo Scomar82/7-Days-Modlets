@@ -72,6 +72,14 @@ Inspired from AGF Health Bar, but it was to small for me.
     - your have also the choise to craft 2 quest books, which give you a quest to kill 100 oder 250 zombies to get a reward.
     - already known books have a red open book to identify them easier
   - If something is missing, don't hesitate to write a comment. I will see what i can do.
+
+  - Ver. 1.1:
+    - make sure you have read the existing Questbooks, because there is an id change in this update for this 2 Items, sorry for that.
+    - for some crafting recipes the required raw materials have been reduced
+    - fixed Meshfile, who had give a red error (thx to LarryLangosta for let me know this)
+    - added resource crafting for Paper from Schematic Parts (2 Versions: 2 Schematic Parts to 1 Paper and 160 Schematic Parts to 100 Paper)
+    - added 4 new hunting Quests for Animales (2 with Coins and XP as reward and 2 with Coins, XP and 1 Skillpoint as reward)
+
     
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
@@ -151,6 +159,13 @@ Inspiriert vom AGF Health Bar Mod, aber nun etwas größer und runder^^
     - Öffne die Bauplan-Werkbank und wähle nun dein fehlendes Buch, Magazin oder Bauplan aus und stelle es aus den Teilen und ein paar anderen Zutaten her.
     - Du hast auch die Möglichkeit, 2 Questbücher zu craften, die dir eine Quest geben, bei der du 100 oder 250 Zombies töten musst, um eine Belohnung zu erhalten.
     - Bereits bekannte Bücher haben ein rotes offenes Buch, um sie leichter zu identifizieren.
-  - Wenn etwas fehlt, zögert nicht, einen Kommentar zu schreiben. Ich werde sehen, was ich tun kann.
+    - Wenn etwas fehlt, zögert nicht, einen Kommentar zu schreiben. Ich werde sehen, was ich tun kann.
+
+     - Ver. 1.1:
+      - vergewissert euch, dass ihr die bestehenden Questbücher gelesen habt, denn in diesem Update gibt es eine Änderung der ID für diese 2 Gegenstände, sorry dafür.
+      - für einige Crafting-Rezepte wurden die benötigten Rohstoffe reduziert
+      - Meshfile gefixed, das einen roten Fehler verursacht hatte (danke an LarryLangosta für den Hinweis)
+      - Rohstoff-Crafting für Papier aus Bauplanteilen hinzugefügt (2 Versionen: 2 Bauplanteile für 1 Papier und 160 Bauplanteile für 100 Papier)
+      - 4 neue Jagdquests für Tiere hinzugefügt (2 mit Münzen und XP als Belohnung und 2 mit Münzen, XP und 1 Skillpunkt als Belohnung)
 
 Wem es gefällt oder wer mich unterstützen möchte, natürlich alles freiwillig und kein muss! -> [paypal.me](https://www.paypal.me/Enrico1982)
