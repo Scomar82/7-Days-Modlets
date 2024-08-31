@@ -73,6 +73,13 @@ Inspired from AGF Health Bar, but it was to small for me.
     - already known books have a red open book to identify them easier
   - If something is missing, don't hesitate to write a comment. I will see what i can do.
 
+  Ver. 1.2:
+    - Mission 250 - fixed wrong description in the questoffer window
+    - adjusted all recipes for better use, lowered craftingtime and amount of required materials
+    - for x scrapped books now you can craft 1 new: Crafting Skill magazines 3:1 - Perk Books 20:1 - T0 Mods 6:1 - T1 Mods 8:1 - T3 Mods 10:1
+    - added 2 new quest for helping you at a new start
+    - the names of the craftable quests now show you a category of what is to do
+
   - Ver. 1.1:
     - make sure you have read the existing Questbooks, because there is an id change in this update for this 2 Items, sorry for that.
     - for some crafting recipes the required raw materials have been reduced
