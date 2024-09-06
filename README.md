@@ -51,6 +51,9 @@ Inspired from AGF Health Bar, but it was to small for me.
   - HA - Heavy Armor
   - ﻿﻿Furthermore the AP and HiPower Ammo are shown in differnt colors.
 
+  - V1.01 -added Armor edits for russian language, big thanks to Essence228 for your work.
+  - V1.02 -added Armor edits for french language, big thanks to Hoowiz for your help
+
 **Scomar82-HUD:**
   - Hud-Modification with additional Stats displayed in Hud
   - elevation, temperature and xp with playerlevel
