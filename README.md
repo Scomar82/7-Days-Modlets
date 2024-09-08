@@ -78,6 +78,10 @@ Inspired from AGF Health Bar, but it was to small for me.
   - *Optional*
       - zzzSuBaSCompatibiltyPatch: Adds compatibility between Book Magazine and Schematic Recycling and Zombie Hunter
 
+  Ver. 1.3:
+    - added Group "Resources" to Schematics Parts
+    - added Craftable Book to give you a Skill Point
+
   Ver. 1.2:
     - Mission 250 - fixed wrong description in the questoffer window
     - adjusted all recipes for better use, lowered craftingtime and amount of required materials
