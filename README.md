@@ -75,6 +75,8 @@ Inspired from AGF Health Bar, but it was to small for me.
     - your have also the choise to craft 2 quest books, which give you a quest to kill 100 oder 250 zombies to get a reward.
     - already known books have a red open book to identify them easier
   - If something is missing, don't hesitate to write a comment. I will see what i can do.
+  - *Optional*
+      - zzzSuBaSCompatibiltyPatch: Adds compatibility between Book Magazine and Schematic Recycling and Zombie Hunter
 
   Ver. 1.2:
     - Mission 250 - fixed wrong description in the questoffer window
