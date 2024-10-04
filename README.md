@@ -15,6 +15,7 @@ It is just a simple modlet that gives you a colored feedback about the cointaine
   - V1.01: Some improvements to the state of the dew collector (cloudy (yellow) and clean water (blue)) and in the Spanish translation. Thanks to M4V3I2iCk
   - V1.1: Added the new translations from Update V1.0 b312 and fixed some broken lines from the original Localization.
   - V1.15: Added accept (green) and decline (red)
+  - V1.2: Added: for better visualisation known books has a red instead of white icon.
 
 **Scomar82_ElementalAmmo:**
 This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
@@ -118,6 +119,7 @@ Setzt den Status (leer) im Deutschen hinter die Beschreibung um so, Leer/Leere/L
   - V1.01: Einige Verbesserungen am Zustand des Tausammlers (trübes (gelb) und sauberes Wasser (blau)) und in der spanischen Übersetzung. Danke an M4V3I2iCk
   - V1.1: Neue Übersetzungen aud Update V1.0 b312 hinzugefügt und einige Zeilen der originalen Localization gefixed
   - V1.15: Akzeptieren (grün) und Ablehnen (rot) hinzugefügt
+  - V1.2: Bereits bekannte Bücher und Baupläne haben ein rotes Icon anstatt dem weißen.
 
 **Scomar82_ElementalAmmo:**
 Diese Mod ist inspiriert von der A21 Mod Exotic Ammo von BoxTurtle Games.
