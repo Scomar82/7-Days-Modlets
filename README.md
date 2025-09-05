@@ -79,6 +79,11 @@ Inspired from AGF Health Bar, but it was to small for me.
   - *Optional*
       - zzzSuBaSCompatibiltyPatch: Adds compatibility between Book Magazine and Schematic Recycling and Zombie Hunter
 
+  Ver. 2.3:
+    - compatibility for Game Version 2.3
+    - added Sledge Sage Books
+    - commented out recipe for modArmorCoolingMeshSchematic and modArmorInsulatedLinerSchematic, items no longer in use in Game Version 2.3
+
   Ver. 1.3:
     - added Group "Resources" to Schematics Parts
     - added Craftable Book to give you a Skill Point
