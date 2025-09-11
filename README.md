@@ -1,4 +1,4 @@
-## 7-Days-Modlets Game Version 1.0
+## 7-Days-Modlets Game Version 1.0 + 2.0 and above
 
 ## English - Deutsch weiter unten
 
@@ -78,6 +78,13 @@ Inspired from AGF Health Bar, but it was to small for me.
   - If something is missing, don't hesitate to write a comment. I will see what i can do.
   - *Optional*
       - zzzSuBaSCompatibiltyPatch: Adds compatibility between Book Magazine and Schematic Recycling and Zombie Hunter
+  
+  Ver. 2.32:
+     - added Challenge to introduce the Schematic Workbench and how it works
+     - Compatibility with Zombie Hunter Mod integrated into the main mod
+     - 
+  Ver. 2.31:
+     - added recipes for Knife Perk Books Mod if it is in use
 
   Ver. 2.3:
     - compatibility for Game Version 2.3
