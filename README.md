@@ -8,63 +8,18 @@ In the [Wiki](https://github.com/Scomar82/7-Days-Modlets/wiki) tab you will find
 
 **The use of these modlets in other mods is allowed if you mention in your credits that they are from me!**
 
-
 **Scomar82_Hobacs:**
 It is just a simple modlet that gives you a colored feedback about the cointainer (untouched, empty, known) and door (locked, unlocked) states . It also makes the interaction buttons colored.
 
-  - V1.01: Some improvements to the state of the dew collector (cloudy (yellow) and clean water (blue)) and in the Spanish translation. Thanks to M4V3I2iCk
-  - V1.1: Added the new translations from Update V1.0 b312 and fixed some broken lines from the original Localization.
-  - V1.15: Added accept (green) and decline (red)
+  - V2.3: Add: colored prompt for activate Quests
+          Add: colored prompt for use switch
+  - V2.0: Removed fixed lines
+          Add: 1 new colored line
   - V1.2: Added: for better visualisation known books has a red instead of white icon.
-
-**Scomar82_ElementalAmmo:**
-This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
-
-  - This Mod gives you 2 new typs of Ammo for your guns, that can be crafted at your workbench.
-  - Fire- and Lightning-Ammo.
-  - The new Ammo Typs can be unlocked by the Perk Advanced Engineering Level 1 und the Bundle Crafting of them at Level 2.
-  - Additional ressources for the Fire-Ammo are GasCans and for Lightning-Ammo are NitratPowder.
-  - Fire-Ammo sets your target on fire and Lightning-Ammo stuns your target
-
-**Scomar82_Health-Bar:**
-Inspired from AGF Health Bar, but it was to small for me.
-  - Shows always the current Health of your aimed target and text below
-  - TiB-Version: shows text inside the HealthBar
-
-**Scomar82_LockSlotColor:**
-  - there are 3 versions
-  - LockSlotIconColor: changes the iconcolor of the locked slot icon to red
-  - LockSlotBackColor: changes the backgroundcolor of the locked slot to red
-  - LockSlotBorderColor: changes the border of the locked slot to red
-  - Shad0wyDr3ams did some edits with different colors. In this files the lock and the border are visible.
-    This files can be also downloaded.
-  - Added new file "Scomar82_LSlotBorderColorRedKH96BB.zip" for **Khaine96BiggerBackpackMod**, who is required for this.
-
-**Scomar82_ChickenNest:**
-  - A craftable Chicken Nest, where you need to give food to it, then "a chicken" will produce some eggs and feathers. Works Serverside!
-  - Seeds Lvl 8 required for crafting
-
-**zScomar82_BN:**
-  - This Mod changes the Names of the armorpieces. It will be now shown with a armorclass shortcut in front of the name.
-  - There are following shortcuts:
-  - LA - Light Armor
-  - MA - Medium Armor
-  - HA - Heavy Armor
-  - ﻿﻿Furthermore the AP and HiPower Ammo are shown in differnt colors.
-
-  - V1.01 -added Armor edits for russian language, big thanks to Essence228 for your work.
-  - V1.02 -added Armor edits for french language, big thanks to Hoowiz for your help
-
-**Scomar82-HUD:**
-  - Hud-Modification with additional Stats displayed in Hud
-  - elevation, temperature and xp with playerlevel
-  - left from toolbelt are the amount of coins carried in your backpack
-  - target healthbar is visible
-
-  - V1.0b33a:
-      - changed locations display center below compass
-      - moved entry display left from compass
-
+  - V1.15: Added accept (green) and decline (red)
+  - V1.1: Added the new translations from Update V1.0 b312 and fixed some broken lines from the original Localization.
+  - V1.01: Some improvements to the state of the dew collector (cloudy (yellow) and clean water (blue)) and in the Spanish translation. Thanks to M4V3I2iCk
+  
 **Scomar82-SuBaS:**
   - You will often find books and building plans in the loot that you already know. The dealer won't give you many coins for them either. Frustrating!
   - But now you have the chance to make something out of these books. Dismantle them into Schematic parts. You can use them at the new Schematics-Workstation
@@ -76,8 +31,9 @@ Inspired from AGF Health Bar, but it was to small for me.
     - your have also the choise to craft 2 quest books, which give you a quest to kill 100 oder 250 zombies to get a reward.
     - already known books have a red open book to identify them easier
   - If something is missing, don't hesitate to write a comment. I will see what i can do.
-  - *Optional*
-      - zzzSuBaSCompatibiltyPatch: Adds compatibility between Book Magazine and Schematic Recycling and Zombie Hunter
+ 
+  Ver. 2.33:
+     - added a teleport scroll to crafting, found in the new category “Unique”. With this you can teleport back to your bedroll.
   
   Ver. 2.32:
      - added Challenge to introduce the Schematic Workbench and how it works
@@ -109,6 +65,62 @@ Inspired from AGF Health Bar, but it was to small for me.
     - added resource crafting for Paper from Schematic Parts (2 Versions: 2 Schematic Parts to 1 Paper and 160 Schematic Parts to 100 Paper)
     - added 4 new hunting Quests for Animales (2 with Coins and XP as reward and 2 with Coins, XP and 1 Skillpoint as reward)
 
+**Scomar82_ChickenNest:**
+A craftable Chicken Nest, where you need to give food to it, then "a chicken" will produce some eggs and feathers. Works Serverside!
+Seeds Lvl 8 required for crafting
+
+  - V2.3:  added different heights of the individual nest states
+  - V1.1:  Release for Game Version 1.0﻿
+﻿﻿           changed category to Food/Cooking, Seeds Lvl 8 required for crafting
+           color of neststages displayed only in name
+
+**Scomar82_FriedMushrooms**
+This mod will bring you some easy early game food, the Fried Mushrooms. All you need is a Campfire with a Cooking Pot, 5 Mushrooms und 1 Animal Fat.
+
+**Scomar82_Health-Bar:**
+Inspired from AGF Health Bar, but it was to small for me.
+
+  - Shows always the current Health of your aimed target and text below
+  - TiB-Version: shows text inside the HealthBar
+
+**Scomar82_ElementalAmmo:**
+This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
+
+  - This Mod gives you 2 new typs of Ammo for your guns, that can be crafted at your workbench.
+  - Fire- and Lightning-Ammo.
+  - The new Ammo Typs can be unlocked by the Perk Advanced Engineering Level 1 und the Bundle Crafting of them at Level 2.
+  - Additional ressources for the Fire-Ammo are GasCans and for Lightning-Ammo are NitratPowder.
+  - Fire-Ammo sets your target on fire and Lightning-Ammo stuns your target
+
+**Scomar82_LockSlotColor:**
+  - there are 3 versions
+  - LockSlotIconColor: changes the iconcolor of the locked slot icon to red
+  - LockSlotBackColor: changes the backgroundcolor of the locked slot to red
+  - LockSlotBorderColor: changes the border of the locked slot to red
+  - Shad0wyDr3ams did some edits with different colors. In this files the lock and the border are visible.
+    This files can be also downloaded.
+  - Added new file "Scomar82_LSlotBorderColorRedKH96BB.zip" for **Khaine96BiggerBackpackMod**, who is required for this.
+
+**zScomar82_BN:**
+  - This Mod changes the Names of the armorpieces. It will be now shown with a armorclass shortcut in front of the name.
+  - There are following shortcuts:
+  - LA - Light Armor
+  - MA - Medium Armor
+  - HA - Heavy Armor
+  - ﻿﻿Furthermore the AP and HiPower Ammo are shown in differnt colors.
+
+  - V1.01 -added Armor edits for russian language, big thanks to Essence228 for your work.
+  - V1.02 -added Armor edits for french language, big thanks to Hoowiz for your help
+
+**Scomar82-HUD:**
+  - Hud-Modification with additional Stats displayed in Hud
+  - elevation, temperature and xp with playerlevel
+  - left from toolbelt are the amount of coins carried in your backpack
+  - target healthbar is visible
+
+  - V1.0b33a:
+      - changed locations display center below compass
+      - moved entry display left from compass
     
 Who likes it or who wants to support me, of course all voluntary and no must! -> [paypal.me](https://www.paypal.me/Enrico1982)
 
