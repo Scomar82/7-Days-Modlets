@@ -33,7 +33,7 @@ It is just a simple modlet that gives you a colored feedback about the cointaine
   - If something is missing, don't hesitate to write a comment. I will see what i can do.
 
   - Ver. 2.34:
-	  - added Recipes for the following Mods: OCB Electricity Wind Power (V2.X), FuriWeeds, Tool Time, War3zuk FarmLife 2024 v2.3 B9 Stable
+	  - added Recipes for the following Mods: OCB Electricity Wind Power (V2.X), FuriWeeds, Tool Time, War3zuk FarmLife 2024 v2.3 B9 Stable, Jewel Crafting
 
   - Ver. 2.33:
      - added a teleport scroll to crafting, found in the new category “Unique”. With this you can teleport back to your bedroll.
