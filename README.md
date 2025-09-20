@@ -32,33 +32,29 @@ It is just a simple modlet that gives you a colored feedback about the cointaine
     - already known books have a red open book to identify them easier
   - If something is missing, don't hesitate to write a comment. I will see what i can do.
 
-  Ver. 2.34:
-     - added Recipes for the following Mods:
-             - OCB Electricity Wind Power (V2.X)
-						 - FuriWeeds
-					   - Tool Time
-			 			 - War3zuk FarmLife 2024 v2.3 B9 Stable
- 
-  Ver. 2.33:
+  - Ver. 2.34:
+	  - added Recipes for the following Mods: OCB Electricity Wind Power (V2.X), FuriWeeds, Tool Time, War3zuk FarmLife 2024 v2.3 B9 Stable
+
+  - Ver. 2.33:
      - added a teleport scroll to crafting, found in the new category “Unique”. With this you can teleport back to your bedroll.
   
-  Ver. 2.32:
+  - Ver. 2.32:
      - added Challenge to introduce the Schematic Workbench and how it works
      - Compatibility with Zombie Hunter Mod integrated into the main mod
      - 
-  Ver. 2.31:
+  - Ver. 2.31:
      - added recipes for Knife Perk Books Mod if it is in use
 
-  Ver. 2.3:
+  - Ver. 2.3:
     - compatibility for Game Version 2.3
     - added Sledge Sage Books
     - commented out recipe for modArmorCoolingMeshSchematic and modArmorInsulatedLinerSchematic, items no longer in use in Game Version 2.3
 
-  Ver. 1.3:
+  - Ver. 1.3:
     - added Group "Resources" to Schematics Parts
     - added Craftable Book to give you a Skill Point
 
-  Ver. 1.2:
+  - Ver. 1.2:
     - Mission 250 - fixed wrong description in the questoffer window
     - adjusted all recipes for better use, lowered craftingtime and amount of required materials
     - for x scrapped books now you can craft 1 new: Crafting Skill magazines 3:1 - Perk Books 20:1 - T0 Mods 6:1 - T1 Mods 8:1 - T3 Mods 10:1
