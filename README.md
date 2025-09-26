@@ -32,6 +32,8 @@ It is just a simple modlet that gives you a colored feedback about the cointaine
     - already known books have a red open book to identify them easier
   - If something is missing, don't hesitate to write a comment. I will see what i can do.
 
+  - Ver. 2.35a:
+	  - Improved descriptions of quest books and adjusted their quest rewards.
   - Ver. 2.35:
       - added a new Modifier Item to Unique category. It fits in your Chest Armor. It will give you some bonus to Bartering, Lootstage and XP
   - Ver. 2.34:
