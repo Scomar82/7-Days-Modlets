@@ -32,6 +32,8 @@ It is just a simple modlet that gives you a colored feedback about the cointaine
     - already known books have a red open book to identify them easier
   - If something is missing, don't hesitate to write a comment. I will see what i can do.
 
+  - Ver. 2.4:
+  	  - added a second teleport scroll to crafting, found in the “Unique” category. With this you can teleport back to your first active landclaim.
   - Ver. 2.35a:
 	  - Improved descriptions of quest books and adjusted their quest rewards.
   - Ver. 2.35:
