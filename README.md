@@ -85,14 +85,20 @@ Inspired from AGF Health Bar, but it was to small for me.
   - Shows always the current Health of your aimed target and text below
   - TiB-Version: shows text inside the HealthBar
 
-**Scomar82_ElementalAmmo:**
-This Mod is inspired from the A21 Mod Exotic Ammo from BoxTurtle Games.
+**Scomar82_Ammo Converter:**
+A simple mod that allows you to convert your ammo into other types.
 
-  - This Mod gives you 2 new typs of Ammo for your guns, that can be crafted at your workbench.
-  - Fire- and Lightning-Ammo.
-  - The new Ammo Typs can be unlocked by the Perk Advanced Engineering Level 1 und the Bundle Crafting of them at Level 2.
-  - Additional ressources for the Fire-Ammo are GasCans and for Lightning-Ammo are NitratPowder.
-  - Fire-Ammo sets your target on fire and Lightning-Ammo stuns your target
+    Arrows to bolts and vice versa
+    9mm to 7.62mm or .44
+    .44 to 9mm or 7.62mm
+    7.62mm to 9mm or .44
+    Standard Ammo to HP or AP and HP <-> AP in additional with the missing resources
+    Shells to Slugs or Breaching Slugs and vice versa in additional with the missing resources
+
+
+There may be some loss of material when converting. For HP and AP as well as steel and special arrows/bolts, the workbench is required.
+
+It should work with most Versions of 7 Days, because there are only additional Recipes.
 
 **Scomar82_LockSlotColor:**
   - there are 3 versions
